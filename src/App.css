@@ -1,14 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
+.back {
+  margin-top: 100px;
+}
+
 .head {
-    color: goldenrod;
-    font: bold;
-    text-align: center;
-    justify-content: center;
-    font-size: 120px;
-  }
-  .fortune {
-    color: rgb(0, 0, 0);
-    font: bold;
-    text-align: center;
-    justify-content: center;
-    font-size: 50px;
-  }
+  color: rgb(255, 255, 255);
+  font: bold;
+  text-align: center;
+  justify-content: center;
+  font-size: 120px;
+  bottom: 500px;
+  font-family: Raleway;
+}
+.fortune {
+  color: rgb(0, 0, 0);
+  font: bold;
+  text-align: center;
+  justify-content: center;
+  font-size: 50px;
+  font-family: Raleway;
+}
+.unfortunate {
+  color: rgb(255, 0, 0);
+  text-align: center;
+  font-family: Raleway;
+}
+.common {
+  color: rgb(148, 251, 255);
+  text-align: center;
+  font-family: Raleway;
+}
+.rare {
+  color: rgb(0, 60, 255);
+  text-align: center;
+  font-family: Raleway;
+}
+.auspicious {
+  color: rgb(255, 230, 0);
+  text-align: center;
+  font-family: Raleway;
+}
